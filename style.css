@@ -12,9 +12,20 @@ body {
   background-color: rgba(0,0,0,.5);
 }
 
+h1 {
+  font-size: 100px;
+  
+}
+
 .answerimgs {
   max-width: 100%;
   max-height: 100%;
+}
+
+.startbutton {
+  background-color:#CB8E12;
+  border-style: none;
+  border-radius: 0;
 }
 
 .main-button-container {
